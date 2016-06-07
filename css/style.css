@@ -526,7 +526,7 @@ h3 > .fa {
 }
 
 .hello {
-	margin: 0 0 100px;
+	margin: 0 0 150px;
 }
 
 /* ---------------------------------------------- /*
@@ -724,7 +724,7 @@ h3 > .fa {
 }
 
 #status, .status-mes {
-	background-image: url(../lib/images/488.GIF);
+	background-image: url(../lib/images/preloader.gif);
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 200px;
@@ -805,7 +805,7 @@ h3 > .fa {
 }
 
 #intro {
-	background: #fff url('../lib/images/nyc.jpg') no-repeat center center fixed;
+	background: #fff url('../lib/images/sf.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

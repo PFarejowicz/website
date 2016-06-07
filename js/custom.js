@@ -36,7 +36,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		//$('#intro').backstretch('lib/images/nyc.jpg');
+		//$('#intro').backstretch('lib/images/sf.jpg');
 
 
 		/* ---------------------------------------------- /*
