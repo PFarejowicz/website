@@ -584,19 +584,6 @@ h3 > .fa {
 	margin-right: 10px;
 }
 
-/* ---------------------------------------------- /*
- * Service
-/* ---------------------------------------------- */
-
-.service {
-	margin: 0 0 40px;
-}
-
-.service .icon {
-	font-size: 32px;
-	margin: 0 0 5px;
-	color: #222;
-}
 
 /* ---------------------------------------------- /*
  * Resume
@@ -762,10 +749,6 @@ h3 > .fa {
 		margin: 0 0 20px;
 	}
 
-	#stats .stat {
-		margin: 0 0 20px;
-	}
-
 }
 .footer-section {
    background-color: #fff;
@@ -810,5 +793,4 @@ h3 > .fa {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	border-bottom:1px dashed #d5d5d5;
 }
