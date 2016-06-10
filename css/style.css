@@ -479,7 +479,7 @@ h3 > .fa {
 .navbar-color,
 .custom-collapse {
 	background: #FFF;
-	box-shadow: 0 0 4px rgba(0, 0, 0, .2);
+	border-bottom: 1px solid #EEEEEE;
 	padding: 0;
 }
 
@@ -686,9 +686,10 @@ h3 > .fa {
 }
 
 #footer {
-	background: #141414;
+	background-color: #FAFAFA;
+	border-top: 1px solid #EEEEEE;
 	padding: 20px 0;
-	color: #FFF;
+	color: #000000;
 }
 
 #footer .copy {
